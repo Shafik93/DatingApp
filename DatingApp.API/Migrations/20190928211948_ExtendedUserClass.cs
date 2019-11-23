@@ -107,7 +107,7 @@ namespace DatingApp.API.Migrations
                 table: "Users");
 
             migrationBuilder.DropColumn(
-                name: "DataOfBirth",
+                name: "DateOfBirth",
                 table: "Users");
 
             migrationBuilder.DropColumn(
