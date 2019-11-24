@@ -1,2 +1,2 @@
 # DatingApp
-Built with ASP.NET Core WebAPI (v2.2) and Angular (v8)
+Built with ASP.NET Core WebAPI (v2.1) and Angular (v8)
